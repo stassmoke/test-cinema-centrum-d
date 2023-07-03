@@ -1,5 +1,9 @@
 # test-cinema
 
+## Api https://developer.themoviedb.org/
+## Imdb not working https://imdb-api.com/	
+## "Unfortunately, due to abuse by some users, the free plan (test account) will be removed from the site from July 1, 2023."
+
 ## Project setup
 ```
 yarn install
